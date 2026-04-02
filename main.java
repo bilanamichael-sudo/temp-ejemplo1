@@ -12,5 +12,6 @@ public class main {
         nombre = entrada.next();
 
         System.out.println("El noombre es: " + nombre);
+         System.out.println("El usuario vive en quito " );
     }
 }
